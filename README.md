@@ -129,9 +129,4 @@ You can also add the `.row` class to your `<form>` and put different `col` dimen
 </form>
 ```
 
-## Your turn
 
-- Now it's your turn to build a [responsive signup form](http://lewagon.github.io/bootstrap-challenges/10-Login-form/).
-- Try to customize your design a bit in `components/form.css`
-
-NB: don't forget to **hard refresh** your browser (`cmd + shift + r`) to clear your browser's cache if your page doesn't seem to display your current code!
